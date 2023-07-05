@@ -11,10 +11,12 @@
 
 Hi, I'm Bikram, 🚀 from USA. Currently, I'm  working on  ML, DL, CV & NLP. Beside's programming👌.
 
-  
+   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently learning Machine Learning ,Deep Learning , NLP using Python.
+- 🤖 Tensorflow , keras , pytorch
 - 🤔 I’m somewhat fine with Machine Learning
 - 💬 Ask me about anything, I am happy to share my knowledge
 
