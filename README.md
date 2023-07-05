@@ -20,6 +20,14 @@ Hi, I'm Bikram, 🚀 from USA. Currently, I'm  working on  ML, DL, CV & NLP. Bes
 - 🤔 I’m somewhat fine with Machine Learning
 - 💬 Ask me about anything, I am happy to share my knowledge
 
+**Professional Stuff :**
+Over 15 years of Information Technology expertise in IT Delivery with projects in Data Analytics, Data Science, Data Visualization, Machine Learning and Deep Learning in different industries Property Casualty Insurance industry ,Health Care and Banking Industry. PMP Certified, Project Management in software quality assurance and testing , Structured testing, Process Improvement, Management and Training. Demonstrated strengths in developing and mentoring others in Agile Software Development environment.
+I deliver positive results leading large System integration, application support, infrastructure and analytics projects, with experience gained through previous initiatives.
+
+Specialties:
+Strategy and Innovation, Digital, Cloud, DevOps, Duck Creek Platform, Program Management, Solution Architecture, System Integration, Outsourcing, Service delivery Management and Transition.
+Implementing Automated Testing Framework, SCRUM/Agile Process.Software quality assurance, Software quality control, Performance Engineering, Software process improvement, Test strategy, Test metrics, progress reporting, and defect management processes.
+
 **Languages and Tools i am using:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
