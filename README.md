@@ -9,7 +9,7 @@
 
 <br />
 
-Hi, I'm Bikram, 🚀 from USA. Currently, I'm  working on  ML, DL, CV & NLP. Beside's programming👌.
+Hi, I'm Bikram, 🚀 from Cary, North Carolina, United States . Currently, I'm  working on  ML, DL, CV & NLP. Beside's programming👌.
 
    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
    
